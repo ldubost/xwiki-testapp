@@ -22,7 +22,8 @@
 <minorEdit>false</minorEdit>
 <syntaxId>xwiki/2.0</syntaxId>
 <hidden>false</hidden>
-<content>Small change in commit
+<content>Another change
+Small change in commit
 
 {{groovy}}
 println (new Date(1262300400000));
