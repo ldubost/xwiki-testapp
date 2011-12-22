@@ -27,9 +27,9 @@
     <version>35</version>
   </parent>
   <groupId>org.xwiki.contrib</groupId>
-  <artifactId>xwiki-application-PRJNAME</artifactId>
+  <artifactId>xwiki-application-test-app</artifactId>
   <version>VERSION</version>
   <packaging>xar</packaging>
-  <name>XWiki Application - PRJPNAME</name>
-  <description>PRJDESC</description>
+  <name>XWiki Application - Test App</name>
+  <description>Test Application for GitHub XWiki App</description>
 </project>
